@@ -1,0 +1,3 @@
+Ali,Atattou,AE298592,15,14,16
+Oussama,Boutaghrate,AB123456,12,18,13
+Rayane,Atattou,DF234567,17,11,19

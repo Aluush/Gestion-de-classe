@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      // Autres options de configuration...
+      "baseUrl": ".", // Définit la base URL pour résoudre les modules
+      "paths": {
+        // Définit des alias de chemins pour les modules
+        "@/*": ["./src/*"] // Alias pour résoudre les modules à partir du répertoire src
+      }
+      // Autres options de configuration...
+    }
+  }
+
+  
